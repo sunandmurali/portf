@@ -1,3 +1,5 @@
+<!-- this is the script for slideshow can u tell me how to load them all at once cuz as u c there are loading one aftr anthr and is being blank till the loop ends -->
+
 $(document).ready(function() {var slideIndex = 0;
 showSlides();
 
